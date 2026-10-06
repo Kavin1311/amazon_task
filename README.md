@@ -110,3 +110,19 @@ For GitHub, you can describe it simply like this:
 
 **Technologies:** Python, Selenium WebDriver, Microsoft Edge, Web Automation, Explicit Waits, HTML Element Locators.
 
+
+
+
+
+
+
+
+<img width="1535" height="863" alt="image" src="https://github.com/user-attachments/assets/1ff53516-5d92-41ea-9b31-df58e465868e" />
+<img width="1535" height="863" alt="image" src="https://github.com/user-attachments/assets/9441f1e5-0f7d-410d-998a-03cf4628b5cc" />
+<img width="1534" height="863" alt="image" src="https://github.com/user-attachments/assets/2a8dccc0-978a-45ea-900b-276bae9a0116" />
+<img width="1535" height="863" alt="image" src="https://github.com/user-attachments/assets/a5293a73-af12-4957-81e4-9adabf178d16" />
+<img width="1533" height="863" alt="image" src="https://github.com/user-attachments/assets/061ab777-2f51-4b74-8293-86f8751f2d7f" />
+<img width="1535" height="863" alt="image" src="https://github.com/user-attachments/assets/136bfd4a-e8c6-466a-b4a4-8b6efba3ec05" />
+<img width="1535" height="860" alt="image" src="https://github.com/user-attachments/assets/9e8c63f6-762c-4050-837d-7437a431ed8c" />
+
+
