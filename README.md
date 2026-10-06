@@ -92,3 +92,21 @@ time.sleep(10)
 
 driver.quit()
 ```
+
+For GitHub, you can describe it simply like this:
+
+### Amazon E-Commerce Automation Testing
+
+* Automated Amazon website testing using **Selenium WebDriver with Python**.
+* Searched for a product using the Amazon search bar.
+* Manually selected a product to continue the test flow.
+* Automatically detected the product page and clicked **Add to Cart**.
+* Navigated to the shopping cart automatically.
+* Clicked **Proceed to Checkout**.
+* Detected whether the Amazon sign-in page appeared.
+* Automatically entered the registered mobile number when the sign-in page was displayed.
+* Used **WebDriverWait** and Selenium locators to handle dynamic web elements.
+* Tested an end-to-end e-commerce workflow from **product search to checkout**.
+
+**Technologies:** Python, Selenium WebDriver, Microsoft Edge, Web Automation, Explicit Waits, HTML Element Locators.
+
